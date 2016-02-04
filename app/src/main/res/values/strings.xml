@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ARMD</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">ARMD</string>
+    <string-array name="header_titles">
+        <item>Permission 1 - Internet</item>
+        <item>Permission 2 - Camera</item>
+        <item>Permission 3 - SMS</item>
+
+    </string-array>
+
+    <string-array name="h1_items">
+        <item>Angry Birds</item>
+        <item>Twitter</item>
+        <item>Facebook</item>
+    </string-array>
+
+    <string-array name="h2_items">
+        <item>Pinterest</item>
+        <item>The Weather Network</item>
+        <item>LinkedIn</item>
+    </string-array>
+
+    <string-array name="h3_items">
+        <item>Ebay</item>
+        <item>Instagram</item>
+        <item>reddit</item>
+    </string-array>
+</resources>
